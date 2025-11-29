@@ -1,15 +1,20 @@
-<p align="center"><img src="/chibi.png"/></p>
+<a href="https://nikki.quest" aria-label="Visit my website">
+  <div align="center">
+    <img src="/sitting.png" alt="Pixel art of a furry goat girl sitting on the floor. There's a keyboard and monitor beside her."/>
+    <img src="/heart.gif" alt="Animated beating heart"/>
+  </div>
+</a>
+
+<br>
 
 <div align="center">
-  <p>💚</p>
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/godot-steelblue?style=for-the-badge&logo=godotengine&logoColor=white">
-  <img src="https://img.shields.io/badge/LÖVE-mediumvioletred?style=for-the-badge">
-  <br>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/gdscript-steelblue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)">
+  <a href="https://godotengine.org/" aria-label="Visit Godot Engine's website">
+    <img src="https://img.shields.io/badge/godot-steelblue?style=for-the-badge&logo=godotengine&logoColor=white" alt="'Godot' badge">
+  </a>
+  <a href="https://www.love2d.org/" aria-label="Visit LÖVE Framework's website">
+    <img src="https://img.shields.io/badge/LÖVE-mediumvioletred?style=for-the-badge" alt="'LÖVE' badge">
+  </a>
+  <a href="https://www.vim.org/" aria-label="Visit Vim's website">
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)" alt="'Vim' badge">
+  </a>
 </div>
